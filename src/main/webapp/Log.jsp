@@ -7,17 +7,17 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Page loging</title>
-
+ <link rel="stylesheet" href="css/style.css">
 
 
 </head>
 <body>
 
-	
+	<h1>veuillez identifier </h1>
 		
+<div class="cont">
 
-<h1>veuillez identifier </h1>
-<div>
+
 	<form action="logServlet" method="post">
         <table>
             <tr>
@@ -44,11 +44,12 @@
     </form>
     <h3 style="color:red">
     
-   
-<c:out value="${message}"/>
-   
+  
     </h3>
-</div>
 
+</div>
+<p id="mesg">  
+<c:out value="${message}"/>
+  </p>
 </body>
 </html>

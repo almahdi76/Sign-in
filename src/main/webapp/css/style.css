@@ -1,0 +1,20 @@
+ body{
+  background-color: #e1ece8;
+ }
+ h1{
+ 	 text-align: center;
+ }
+ .cont{
+   display: flex;
+    justify-content: center;
+ }
+ .iform{
+  margin: 5px;
+  padding:10px;
+ }
+ 
+ #mesg{
+ font-size:20px;
+ text-align: center;
+ color:red;
+ }
