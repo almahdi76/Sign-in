@@ -19,7 +19,7 @@
 
 
 	<form action="logServlet" method="post">
-        <table>
+        <table class="tb">
             <tr>
                 <td>Name</td>
                 <td><input type="text" name="username" class="iform"></td>
