@@ -38,7 +38,9 @@
             </div>
         </table>
 
-
+	<form action="Logout">
+	<input type="submit" value="logout"/>
+	</form>
 
 </body>
 </html>

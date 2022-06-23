@@ -22,7 +22,7 @@
                 <td><input type="password" name="password" class="iform"></td>
             </tr>
             <tr>
-                <td>telephon</td>
+                <td>telephone</td>
                 <td><input type="text" name="telephon" class="iform"></td>
             </tr>
             <tr>
