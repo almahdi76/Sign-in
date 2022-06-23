@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 from main 2
 4444
+=======
+qqqqq
+qqqqq
+>>>>>>> cb3037b0cd3ee005b33d5777d9151320c97c7298
